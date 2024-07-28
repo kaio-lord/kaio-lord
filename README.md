@@ -1,5 +1,4 @@
 <img src="header.png">
-<h1>Kaio-Lord</h1>
 <p></p>Developer of 3kh0 X and codename Segovia.</p>
 
 
