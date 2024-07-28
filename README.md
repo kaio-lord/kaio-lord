@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="header.png">
+<h1>Kaio-Lord</h1>
+<p></p>Developer of 3kh0 X and codename Segovia.</p>
 
-<!--
-**kaio-lord/kaio-lord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Current Projects
+- 3kh0 X
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Planned Projects
+- Codename Segovia
+  
+
+## Info
+#### "Segovia"
+- A planned project scheduled to be released in January
+- "The Future"
