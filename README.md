@@ -7,10 +7,6 @@
 
 
 ## Planned Projects
-- Codename Segovia
+- GΛLΛXIΛ
   
 
-## Info
-#### "Segovia"
-- A planned project scheduled to be released in January
-- "The Future"
